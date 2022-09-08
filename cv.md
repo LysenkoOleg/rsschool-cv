@@ -20,6 +20,7 @@ I read books and learn new things. I have good interpersonal skills, am an excel
 + JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
 + Git
 + Webpack
++ VSCode, WebStorm, **PhpStorm**
 + Windows OS, Linux(Ubuntu)
 Figma(for web development)
 ***
