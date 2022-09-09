@@ -1,3 +1,1 @@
-# rsschool-cv
-
-[LysenkoOleg](https://LysenkoOleg.github.io/rsschool-cv/cv)
+https://LysenkoOleg.github.io/rsschool-cv/cv
