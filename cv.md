@@ -39,6 +39,11 @@ Figma(for web development)
 </div>
 ```
 ***
+###Education
++ Udemy
++ learnjavascript
++ Courses Youtube
+***
 ###Languages
-+ Russian
++ Russian (Native)
 + English ('Level B1')
